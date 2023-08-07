@@ -15,6 +15,9 @@ const favColors=ref([]);
     <input class="ml-2 mr-2" type="checkbox" id="green" v-model="favColors" value="green" >
     <label for="blue">Blue</label>
     <input class="ml-2 mr-2" type="checkbox" id="blue" v-model="favColors" value="blue">
+     <label for="yellow">yellow</label>
+    <input class="ml-2 mr-2" type="checkbox" id="blue" v-model="favColors" value="yellow">
+    
   </section>
 </template>
 <style scoped></style>
